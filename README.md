@@ -11,4 +11,4 @@ This is a project to manage your weekly budget
 ### `npm start`
 
 ### Or visit it on page:
-https://sharp-bhabha-3e1885.netlify.app/
+https://loving-keller-661a28.netlify.app/
